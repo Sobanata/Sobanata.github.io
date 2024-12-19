@@ -66,8 +66,9 @@ body {
               width: 50%; 
               height: auto; 
               margin: 5px;
+              url(c:\Users\Student\Desktop\GIT1\Sobanata.github.io) <screen>;
             }
-            @import url(c:\Users\Student\Desktop\GIT1\Sobanata.github.io) <screen>;
+             
 
 button {
     display: flex;
