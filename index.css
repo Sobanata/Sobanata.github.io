@@ -50,7 +50,7 @@ body {
         }
 
         section center ul img{
-          width: 420px;
+          width: 320px;
           @media (max-width: 370px) {
             width: 320px;
           }
