@@ -5,7 +5,6 @@ body {
             background-color: #f4f4f4;
         }
 
-
         header {
             background: #7f8f74;
             color: #fff;
@@ -15,16 +14,19 @@ body {
         nav {
             margin: 15px 0;
         }
+
         nav a {
             color: #fff;
             margin: 0 15px;
             text-decoration: none;
         }
+
         .container {
             width: 80%;
             margin: auto;
             overflow: hidden;
         }
+
         section {
             background: #fff;
             padding: 20px;
@@ -32,12 +34,34 @@ body {
             border-radius: 5px;
             box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 
+            @media (max-width: 370px) {
+              padding: 0px;
+              margin: 0px 0;
+            }
+
+        }
+
+        section center ul{
+          display: flex;
+          flex-wrap: nowrap;
+          flex-direction: column;
+          justify-content: center;
+        gap: 20px;
+        }
+
+        section center ul img{
+          width: 320px;
+          @media (max-width: 370px) {
+            width: 320px;
+          }
         }
 
         .photo-container {
             display: flex; 
             flex-wrap: wrap;
+            flex-direction: column;
             justify-content: center; 
+            padding: 40px;
           }
         
           .photo {
