@@ -16,8 +16,11 @@
 
 Когда я ее создавала я испльзовала такие стеки как:
 
-| Заголовок 1 | Заголовок 2 | Заголовок 1 | Заголовок 2|   
-| ----------- | ----------- | ----------- |----------- |
+| Название проекта | Скриншот                | Описание                       |
+|------------------|-------------------------|--------------------------------|
+| Проект 1         | ![Скриншот 1](https://github.com/Sobanata/Sobanata.github.io/raw/main/image/html.png) | Краткое описание проекта 1     |
+| Проект 2         | ![Скриншот 2](https://github.com/Sobanata/Sobanata.github.io/raw/main/image/css.png) | Краткое описание проекта 2     |
+| Проект 3         | ![Скриншот 3](https://github.com/Sobanata/Sobanata.github.io/raw/main/image/js.png) | Краткое описание проекта 3     |
 
 ![Скриншот](https://github.com/Sobanata/Sobanata.github.io/raw/main/image/1.png)
 
